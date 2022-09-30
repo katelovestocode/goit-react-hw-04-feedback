@@ -3,8 +3,11 @@ export const theme = {
     black: 'black',
     green: 'green',
     red: 'red',
+    blue: 'blue',
     ivory: '#EEEDE7',
     boxColor: '#E7D2CC',
+    buttons: '#B1D7B4',
+    darkGreen: '#42855B',
   },
   space: [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 'auto'],
   fonts: {

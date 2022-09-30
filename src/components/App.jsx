@@ -31,7 +31,7 @@ class App extends Component {
     const positiveFeedback = this.countPositiveFeedbackPercentage()
 
     return (
-      <Box display="flex" flexDirection="column" p={30} as="main"> 
+      <Box display="flex" flexDirection="column" alignItems='center'  justifyContent="center"  p={30} as="main"> 
         
         <Section title="Please leave a feedback"/> 
       
